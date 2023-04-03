@@ -42,3 +42,13 @@ body,
 .navitems > a:active {
   scale: 0.9;
 }
+
+.heroSection {
+  height: 100dvh;
+  width: 100dvw;
+}
+
+.heroSection > img {
+  width: 100%;
+  object-fit: cover;
+}
